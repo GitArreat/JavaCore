@@ -1,4 +1,4 @@
-package Lesson2.test;
+package Lesson2;
 
 public class Main {
    static String[][] array = {{"4", "1", "j", "2", "2"}, {"4", "1", "2", "1"}, {"4", "1", "2", "1"}, {"4", "1", "2", "1"}};
